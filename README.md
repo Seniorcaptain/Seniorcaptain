@@ -2,7 +2,8 @@
 <a href="https://linkedin.com/in/charles-ndirangu-1b434615a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Computer Science graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I also have certifications In Cybersecurity as a CERTIFIED CYBERSECURITY TECHNICIAN (CCT), SESSION HIJACKING AND PREVENTION TECHNIQUES, IT LINUX NETWORK ADMINISTRATION from EC-Council,
+I also have Proficiency in Microsoft Azure as a tool for Performing SIEM Monitoring  
 ## Objective
 
 
