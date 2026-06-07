@@ -26,7 +26,7 @@ My journey in computer science grew into a deep passion for cybersecurity archit
 | Threat Hunting with MITRE ATT&CK | Enterprise Architecture Work |
 | Active Directory & Azure Entra ID Framework Design | Enterprise Architecture Work |
 | Cloud Security Architecture (Azure / AWS) | Enterprise Architecture Work |
-| API Security Design (OAuth 2.0, JWT) | Enterprise Architecture Work |<a href="API Security Design (OAuth 2.0, JWT)">API SECURITY</a>
+| API Security Design (OAuth 2.0, JWT) | |<a href="API Security Design (OAuth 2.0, JWT)">API SECURITY</a>
 | Malware Analysis & Reverse Engineering (Ghidra) | Enterprise Architecture Work |
 | Compliance Architecture (PCI-DSS, SWIFT CSP, ISO 27001) | Enterprise Architecture Work |
 | Database Security Architecture (TDE, Audit Logging) | Enterprise Architecture Work |
