@@ -18,19 +18,19 @@ My journey in computer science grew into a deep passion for cybersecurity archit
 |---|---|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/Seniorcaptain/Detection-lab/blob/main/README.md">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Seniorcaptain/Detection-lab/blob/main/README.md">Detection Lab</a> |
-| Security Automation with Shuffle SOAR | SOC Automation Lab |
-| Incident Response Planning and Execution | SOC Automation Lab |
-| Case Management with TheHive | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
+| Security Automation with Shuffle SOAR | <a href="https://github.com/Seniorcaptain/Detection-lab/blob/main/README.md">SOAR LAB</a>|
+| Incident Response Planning and Execution | <a href="https://github.com/Seniorcaptain/Detection-lab/blob/main/README.md">Incidence Responce</a>|
+| Web Security Management  | <a href="https://github.com/Seniorcaptain/Web-Security/blob/main/crAPI%20Web%20security)">Web Security<a/> |
+| Scripting and Automation for Threat Mitigation |<a href="https://github.com/Seniorcaptain/AutomationPython-Bash/blob/main/Automation">Scripting<a/> |
 | Zero Trust Architecture Design | Enterprise Architecture Work |
 | Threat Hunting with MITRE ATT&CK | Enterprise Architecture Work |
-| Active Directory & Azure Entra ID Framework Design | Enterprise Architecture Work |
-| Cloud Security Architecture (Azure / AWS) | Enterprise Architecture Work |
+| Active Directory & Azure Entra ID Framework Design |<a href="https://github.com/Seniorcaptain/WindoesExpolab/blob/main/Windowslab">Windows<a/> |
+| Cloud Security Architecture (Azure / AWS) | <a href="https://github.com/Seniorcaptain/Detection-lab/blob/main/README.md">Cloud Security</a>|
 | API Security Design (OAuth 2.0, JWT) |<a href="https://github.com/Seniorcaptain/API-Security-Walkthorugh/blob/main/VulnBank">API SECURITY</a>|
 | Malware Analysis & Reverse Engineering (Ghidra) | Enterprise Architecture Work |
-| Compliance Architecture (PCI-DSS, SWIFT CSP, ISO 27001) | Enterprise Architecture Work |
-| Database Security Architecture (TDE, Audit Logging) | Enterprise Architecture Work |
-| Container Security Architecture (Docker, Kubernetes) | Enterprise Architecture Work |
+| Compliance Architecture (PCI-DSS, SWIFT CSP, ISO 27001) |<a href="https://github.com/Seniorcaptain/Compliance-/blob/main/GRC">GRC<a/> |
+| Database Security Architecture (TDE, Audit Logging) | <a href="https://github.com/Seniorcaptain/CRUD/blob/main/CRUDLAB">Database<a/>|
+| Mobile Security Architecture (Jadx, GenyMotion) | <a href="https://github.com/Seniorcaptain/Mobile/blob/main/MOBILABS">Mobile Security<a/> |
 
 ---
 
